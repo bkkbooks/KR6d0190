@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6d0190/t/v1/juan/0
+seq: 0
+front:
+  text: 方等三昧行法序宋沙門遵式述山門教卷自唐季多流外國或尚存目錄而莫見其文學者思之渺隔滄海方等三昧行法者皇宋咸平六祀日本僧寂照等齎至雖東國重來若西乾新譯載披載沃適奉醒醐竊念方等至尊禁法嚴密苟不克由聖範事出師心豈唯招無益之訶抑亦負餘殃之責南嶽師躬行七載理洞其微位淨六根言符先佛大師咨詢有在況發總持垂此典謨足可繩準今時或壇場延袤形像巍峨行法則半任臆裁律範則全由心匠縱謂七眾階節寧逾上首之科雖曰像多無妙要符表法之便將恐未除故業更貽新戚染衣增垢良用悲夫然此行法六篇後二不載者修行備百錄止觀受戒具出本經存篇目者令知法有始終也
+  hash: sha256:6ffddf67f30d734ca28ccbbe4a1201191195c5116a2f073435cdacc9ae419ce5
+  markers:
+  - {type: 序, offset: 0, content: 方等三昧行法序, id: KR6d0190_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 方等三昧行法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1940.xml
+    old_id: T46n1940
+hash: sha256:24a2706555fdfb9ab0c6d088ad6f1e2e2b3f3c7b8a8b1c4522c23dad934aab0e

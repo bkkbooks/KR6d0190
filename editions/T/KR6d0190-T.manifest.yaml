@@ -1,0 +1,288 @@
+canonical_identifier: bkk:krp/KR6d0190/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0190/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 方等三昧行法
+  identifiers:
+    krp: KR6d0190
+    cbeta: T46n1940
+    cbeta_old_id: T46n1940
+    authorityid: CA0001008
+    json_key: T1940
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1940.xml
+    old_id: T46n1940
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0190_000-T.yaml, hash: 'sha256:24a2706555fdfb9ab0c6d088ad6f1e2e2b3f3c7b8a8b1c4522c23dad934aab0e'}
+  - {seq: 1, filename: KR6d0190_001-T.yaml, hash: 'sha256:1f6988eee816f3019ff884f8a3e2bb5bc46178b8b3f104afcae942cc58b13fad'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0190_000-T.markers.yaml, hash: 'sha256:fb21459341ab825baae428737dc091ff0312f19bb91fae2b30cea02080805431'}
+  - {seq: 1, role: markers, filename: assets/KR6d0190_001-T.markers.yaml, hash: 'sha256:14d0beaa41dedcbe1c726022825738ab866855afee97314376dbbda051cb7405'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0190_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 方等三昧行法序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8319
+  label: 方等三昧行法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-1
+    span:
+    - body
+    - 63
+    - 63
+  label: 1 具六緣者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-2
+    span:
+    - body
+    - 89
+    - 89
+  label: 1 法緣者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-3
+    span:
+    - body
+    - 740
+    - 740
+  label: 八十七日懺悔法者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-4
+    span:
+    - body
+    - 797
+    - 797
+  label: 九十七日懺悔法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-5
+    span:
+    - body
+    - 852
+    - 852
+  label: 六十七日懺悔法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-6
+    span:
+    - body
+    - 914
+    - 914
+  label: 四十七日懺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-7
+    span:
+    - body
+    - 1146
+    - 1146
+  label: 七日要心上首悔懺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-8
+    span:
+    - body
+    - 1275
+    - 1275
+  label: 2 善知識緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-9
+    span:
+    - body
+    - 1643
+    - 1643
+  label: 3 前方便緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-10
+    span:
+    - body
+    - 2218
+    - 2218
+  label: 4 辦衣緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-11
+    span:
+    - body
+    - 2448
+    - 2448
+  label: 5 行法緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-12
+    span:
+    - body
+    - 2642
+    - 2642
+  label: 6 供養緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-13
+    span:
+    - body
+    - 2734
+    - 2734
+  label: 2 識遮障有四調適
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-14
+    span:
+    - body
+    - 2767
+    - 2767
+  label: 1 洗浴調適
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-15
+    span:
+    - body
+    - 3231
+    - 3231
+  label: 2 飲食調適
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-16
+    span:
+    - body
+    - 3405
+    - 3405
+  label: 3 行道調適
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-17
+    span:
+    - body
+    - 3545
+    - 3545
+  label: 4 坐禪調適
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-18
+    span:
+    - body
+    - 3862
+    - 3862
+  label: 3 禁法者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-19
+    span:
+    - body
+    - 3903
+    - 3903
+  label: 1 七日要心及誦呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-20
+    span:
+    - body
+    - 4234
+    - 4234
+  label: 2 奉請懺悔主受戒發露
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-21
+    span:
+    - body
+    - 4587
+    - 4587
+  label: 3 見善惡業相及十法王子等不得向人說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-22
+    span:
+    - body
+    - 6155
+    - 6155
+  label: 4 內律要決二意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-23
+    span:
+    - body
+    - 6217
+    - 6217
+  label: 1 明犯五篇戒滅不滅相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0190_T_001-mulu-24
+    span:
+    - body
+    - 6773
+    - 6773
+  label: 2 明十惡十善業滅不滅
+  type: mulu
+  level: 1
+hash: sha256:307ddc5b33543b467ccf295ec2cf017a89ad3519161b742f8c26341ed76a58e2
