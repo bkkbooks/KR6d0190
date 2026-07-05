@@ -20,7 +20,6 @@ markers:
   - {type: line-break, offset: 13, content: '', id: KR6d0190_T_000-0943a06, ed: T, 'n': 0943a06}
   - {type: xml-element, offset: 13, content: '', id: pT46p0943a0601, name: p, role: open, attrs: {'xml:id': pT46p0943a0601}}
   - {type: punctuation, offset: 24, content: 。, id: KR6d0190_T_000-bkkpn8}
-  - {type: substitution, offset: 28, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 29, content: 。, id: KR6d0190_T_000-bkkpn9}
   - {type: line-break, offset: 30, content: '', id: KR6d0190_T_000-0943a07, ed: T, 'n': 0943a07}
   - {type: punctuation, offset: 34, content: 。, id: KR6d0190_T_000-bkkpn10}
@@ -59,7 +58,6 @@ markers:
   - {type: line-break, offset: 166, content: '', id: KR6d0190_T_000-0943a15, ed: T, 'n': 0943a15}
   - {type: punctuation, offset: 170, content: 。, id: KR6d0190_T_000-bkkpn36}
   - {type: punctuation, offset: 177, content: 。, id: KR6d0190_T_000-bkkpn37}
-  - {type: substitution, offset: 180, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 183, content: 。, id: KR6d0190_T_000-bkkpn38}
   - {type: line-break, offset: 183, content: '', id: KR6d0190_T_000-0943a16, ed: T, 'n': 0943a16}
   - {type: punctuation, offset: 189, content: 。, id: KR6d0190_T_000-bkkpn39}
@@ -74,7 +72,6 @@ markers:
   - {type: punctuation, offset: 225, content: 。, id: KR6d0190_T_000-bkkpn46}
   - {type: punctuation, offset: 230, content: 。, id: KR6d0190_T_000-bkkpn47}
   - {type: line-break, offset: 234, content: '', id: KR6d0190_T_000-0943a19, ed: T, 'n': 0943a19}
-  - {type: substitution, offset: 234, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 237, content: 。, id: KR6d0190_T_000-bkkpn48}
   - {type: punctuation, offset: 243, content: 。, id: KR6d0190_T_000-bkkpn49}
   - {type: punctuation, offset: 247, content: 。, id: KR6d0190_T_000-bkkpn50}
@@ -86,4 +83,4 @@ markers:
   - {type: line-break, offset: 254, content: '', id: KR6d0190_T_000-0943a23, ed: T, 'n': 0943a23}
   body: []
   back: []
-hash: sha256:a809f216b4035723b3a89d9b194d90af5c3f0280afaa9ea5606b1f3e5411df74
+hash: sha256:cd3a51d3a650775c461cd38685b1d06ee7155a5b4e2874dedca506859247cbeb
