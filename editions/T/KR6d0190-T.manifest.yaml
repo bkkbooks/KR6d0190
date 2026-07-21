@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6d0190_000-T.yaml, hash: 'sha256:24a2706555fdfb9ab0c6d088ad6f1e2e2b3f3c7b8a8b1c4522c23dad934aab0e'}
+  - {seq: 0, filename: KR6d0190_000-T.yaml, hash: 'sha256:0d4c65cb82c41c77e3fbacc158b14c33ae778a21da025aa6055863fc2756930e'}
   - {seq: 1, filename: KR6d0190_001-T.yaml, hash: 'sha256:1f6988eee816f3019ff884f8a3e2bb5bc46178b8b3f104afcae942cc58b13fad'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0190_000-T.markers.yaml, hash: 'sha256:fb21459341ab825baae428737dc091ff0312f19bb91fae2b30cea02080805431'}
+  - {seq: 0, role: markers, filename: assets/KR6d0190_000-T.markers.yaml, hash: 'sha256:484eae6a120923ed5eb32828d1e09c9907f006ba193b6cfc9961854fad580ca5'}
   - {seq: 1, role: markers, filename: assets/KR6d0190_001-T.markers.yaml, hash: 'sha256:14d0beaa41dedcbe1c726022825738ab866855afee97314376dbbda051cb7405'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0190_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 方等三昧行法序
@@ -285,4 +285,4 @@ table_of_contents:
   label: 2 明十惡十善業滅不滅
   type: mulu
   level: 1
-hash: sha256:307ddc5b33543b467ccf295ec2cf017a89ad3519161b742f8c26341ed76a58e2
+hash: sha256:a0dd71704ee2c71f47aee65bc4716060c1a69a4ca75b46ffb7c0cda597c29a8d

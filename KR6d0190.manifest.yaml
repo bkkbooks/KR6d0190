@@ -21,17 +21,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6d0190_000.yaml, hash: 'sha256:5bdfca66f6e81345e8be23c9b367c1b59ab64c0605007dc6a2c31492177baa12'}
+  - {seq: 0, filename: KR6d0190_000.yaml, hash: 'sha256:b994426eeacb1291207f19864ec631b08deb889b0d32a69e118af989cd3ff428'}
   - {seq: 1, filename: KR6d0190_001.yaml, hash: 'sha256:7476859fb461ecf842482aeed2ba05f59f9ebcae57d055c97446459562062e00'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0190_000.markers.yaml, hash: 'sha256:433f02fcf3a6157f093233b8cbc02348ce61113034d697dead2bdc08fd2a6ce5'}
+  - {seq: 0, role: markers, filename: assets/KR6d0190_000.markers.yaml, hash: 'sha256:5f0f0ae7c78bc1fcd788791a65dc4e39b8334490c694d0c8063798bb1278eb11'}
   - {seq: 1, role: markers, filename: assets/KR6d0190_001.markers.yaml, hash: 'sha256:58cdd641c967fa9542c4644657d8498c1eb6ac30ca4daa2cdd27ce901631565a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0190_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 方等三昧行法序
@@ -287,7 +287,7 @@ table_of_contents:
   label: 2 明十惡十善業滅不滅
   type: mulu
   level: 1
-hash: sha256:a2b90b8fd7506372c489893cc0414734c350ff791868a220fe40dbf874f7fed1
+hash: sha256:026c5e5b9ff9eafd660b4ea12026ebe92d7b9b58a873fedcd036bfd486614ae1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
